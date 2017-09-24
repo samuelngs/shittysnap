@@ -1,0 +1,9 @@
+{
+  "name": "gopro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "goproh4": "^0.4.2"
+  }
+}
